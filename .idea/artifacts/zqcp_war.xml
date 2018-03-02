@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zqcp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zqcp.war">
+      <element id="artifact" artifact-name="zqcp:war exploded" />
+    </root>
+  </artifact>
+</component>
